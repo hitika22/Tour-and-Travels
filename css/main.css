@@ -9,8 +9,8 @@
 body {
   font-family: 'Nunito', sans-serif;
   min-height: 100%;
-  background: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.9)), to(rgba(0, 0, 0, 0.3))), url(https://source.unsplash.com/1600x900/?tourism,sea,mountains,nature,travel);
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.3)), url(https://source.unsplash.com/1600x900/?tourism,sea,mountains,nature,travel);
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.4))), url(https://source.unsplash.com/1600x900/?tourism,sea,mountains,nature,travel);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url(https://source.unsplash.com/1600x900/?tourism,sea,mountains,nature,travel);
   background-size: cover;
 }
 
@@ -127,7 +127,7 @@ h3 {
 
 h1 {
   position: absolute;
-  top: 47%;
+  top: 40%;
   left: 5%;
   font-size: 5em;
   color: white;
@@ -135,7 +135,7 @@ h1 {
 }
 
 .book {
-  margin: 17em 6%;
+  margin: 15em 6%;
   width: 14%;
   background-color: #4668ff;
   color: white;
